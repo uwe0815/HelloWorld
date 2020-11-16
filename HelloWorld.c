@@ -1,1 +1,8 @@
+main{
+
+
+
 printf("Hello world);
+       }
+       
+       
